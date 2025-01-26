@@ -21,7 +21,7 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 ### 🔹 **INICIOS DE SQL**
 - **Descripción:** Estos furon mis primeros pasos aprendiendo SQL, son pilares para un crecimiento sólido en este lenguaje tan versatil.   
 - **Tecnologías usadas:** SQLite, Excel.  
-- **[Enlace al proyecto](#)**  
+- **01_FUNDAMENTOS.ipynb(#)**  
 
 ### 🔹 **ESTADÍTICA DESCRIPTIVA CON PYTHON**
 - **Descripción:** Breve explicación del proyecto, propósito y contexto.  
