@@ -22,9 +22,9 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 - **Descripción:** Estos furon mis primeros pasos aprendiendo SQL, son pilares para un crecimiento sólido en este lenguaje tan versatil.   
 - **Tecnologías usadas:** SQLite, Excel.  
 
-### 🔹 **ESTADÍTICA DESCRIPTIVA CON PYTHON**
+### 🔹 **ESTADÍSTICA DESCRIPTIVA CON PYTHON**
 - **Descripción:** Breve explicación del proyecto, propósito y contexto.  
-- **Tecnologías usadas:** R, Power BI, etc.  
+- **Tecnologías usadas:** PYTHON.  
 - **[Fundamentos de Python](./01_FUNDAMENTOS.ipynb)**
 
 ### 🔹 **MISELÁNEOS EN PYTHON**
