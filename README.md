@@ -26,7 +26,7 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 - **Descripción:** Breve explicación del proyecto, propósito y contexto.  
 - **Tecnologías usadas:** PYTHON.  
 - **[Fundamentos de Python](./01_FUNDAMENTOS.ipynb)**
-- **[Fundamentos de Python](./Regresion_a_la_media_estaturas.ipynb)**
+- **[Regresión a la media en estaturas](./Regresion_a_la_media_estaturas.ipynb)**
 
 ### 🔹 **MISELÁNEOS EN PYTHON**
 - **Descripción:** Aquí veras proyectos cortos que he hecho con un fin menos académico pero muy divertido.
