@@ -19,7 +19,7 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 ## 📂 **Proyectos destacados**
 
 ### 🔹 **INICIOS DE SQL**
-- **Descripción:** Estos furon mis primeros pasos aprendiendo SQL, son pilares para un crecimiento sólido en este lenguaje tan versatil.   
+- **Descripción:** Estos fueron mis primeros pasos aprendiendo SQL, son pilares para un crecimiento sólido en este lenguaje tan versatil.   
 - **Tecnologías usadas:** SQLite, Excel.  
 
 ### 🔹 **ESTADÍSTICA CON PYTHON**  
@@ -28,6 +28,7 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 - **[Fundamentos de Python](./01_FUNDAMENTOS.ipynb)**
  
 ### 🔹 **ESTADÍSTICA CON R**  
+- **Descripción:** En este proyecto podrás encontrar códigos de análisis estadístico con R que he realizado en la universidad.
 - **Tecnologías usadas:** R, Collab, Jupyter.  
 - **[Regresión a la media en estaturas](./Regresion_a_la_media_estaturas.ipynb)**
 - 
