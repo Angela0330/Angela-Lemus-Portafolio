@@ -23,10 +23,14 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 - **Tecnologías usadas:** SQLite, Excel.  
 
 ### 🔹 **ESTADÍSTICA CON PYTHON**  
-- **Tecnologías usadas:** PYTHON.  
+- **Descripción:** En este proyecto podrás ver el aprendizaje básico de python así como uso de herramientas de este lenguaje para hacer estaítica descriptiva con un caso práctico donde se analiza los **puntajes de CredPay**
+- **Tecnologías usadas:** PYTHON, Jupyter.  
 - **[Fundamentos de Python](./01_FUNDAMENTOS.ipynb)**
+ 
+### 🔹 **ESTADÍSTICA CON R**  
+- **Tecnologías usadas:** R, Collab, Jupyter.  
 - **[Regresión a la media en estaturas](./Regresion_a_la_media_estaturas.ipynb)**
-
+- 
 ### 🔹 **MISELÁNEOS EN PYTHON**
 - **Descripción:** Aquí veras proyectos cortos que he hecho con un fin menos académico pero muy divertido.
 - **Tecnologías usadas:** PYTHON  
