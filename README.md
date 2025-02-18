@@ -31,12 +31,6 @@ Soy estudiante de Actuaría en la UNAM, apasionada por la probabilidad, programa
 - **Descripción:** En este proyecto podrás encontrar códigos de análisis estadístico con R que he realizado en la universidad.
 - **Tecnologías usadas:** R, Collab, Jupyter.  
 - **[Regresión a la media en estaturas](./Regresion_a_la_media_estaturas.ipynb)**
-- 
-### 🔹 **MISELÁNEOS EN PYTHON**
-- **Descripción:** Aquí veras proyectos cortos que he hecho con un fin menos académico pero muy divertido.
-- **Tecnologías usadas:** PYTHON  
-- **[Enlace al proyecto](#)**  
----
 
 ## 🎯 **Objetivos y motivaciones**
 Estoy enfocada en perfeccionar mis habilidades técnicas, contribuir a proyectos colaborativos y aprender nuevas tecnologías. Mi objetivo a largo plazo es aplicar mis conocimientos para optimizar la toma de decisiones en contextos complejos, especialmente en el sector financiero y de seguros.
